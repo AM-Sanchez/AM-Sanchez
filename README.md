@@ -1,4 +1,6 @@
-### 👋✌️Hello!
+##### “Science is magic that works.” - Kurt Vonnegut
+ 
+## Greetings!
 
 <!--
 **am-sanchez/am-sanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,16 +8,22 @@
 Here are some ideas to get you started:
 -->
 <!-- - 🤔 I’m looking for help with CUDA and  -->
-My name is Alex Sanchez and I am a C++ developer 💻, collaborator, remote team lead, technology enthusiast, and consumer of electronic music and sci-fi/fantasy novels. I currently work as a software product lead and individual contributor for a cross-platform data center modeling GUI application written in C++/Qt!
+My name is Alex Sanchez and I am a software developer 💻, collaborator, remote team lead, technology enthusiast, and consumer of electronic music and sci-fi/fantasy novels. 
+
+Currently, I work as a software product lead and individual contributor for a cross-platform data center modeling GUI application written in C++/Qt used as part of a suite of DCIM (Data center infrastructure management) tools.
+
+I have over 7 years of professional software development experience writing C++, Qt framework, Python, and Golang (primarily the former).
+
+My passion lies in creating the most performant, efficient, memory-safe, and inutitive software products possible while collaborating with others, continuosuly improving my skillsets, and expanding my knowledge. I look foward to working together and hope you'll reach out!
+
+📫 Connect with me on LinkedIn: https://www.linkedin.com/in/alejandro-m-sanchez
 
 - :vhs: Youtube channel: [Videos on computer networks and security I made for college](https://www.youtube.com/watch?v=NazbhvyKpqw&list=PL2ZA4O3zwHSSMp5FMeS7M4rq5yg50fqak)
 - 🔭 I’m currently working on: [A compiler for the "Decaf" programming language](https://github.com/am-sanchez/compiler-dcc)
-- 🌱 I’m currently learning: NVIDIA CUDA, [i.e. the toolkit enabling the current technological revolution](https://www.youtube.com/watch?v=odEnRBszBVI&pp=ygUMZ3RjIHN1cGVyY3V0)
+- 🌱 I’m currently learning: NVIDIA CUDA
 - 👯 I’m looking to collaborate on [NVIDIA/cccl](https://github.com/am-sanchez/cccl)
 - 💬 Ask me about: C++, anything technology related (🚀 Space, 🤖AI, 🔬quantum), 🎥pop culture, or 🎻music
-- 📫 How to reach me: asanchez1103@gmail.com
 - 😄 Pronouns: he/him
 - :books: Currently reading: Sarah J. Maas - A Court of Frost and Starlight
 -  🎹 :sound: Currently listening to: [All things Liquid Drum n' Bass](https://www.youtube.com/watch?v=_rKZT_rN6LY&list=PL1wrQVOjFlMjfe2m2apaKT6_VVie5ZKjs&index=117&pp=iAQB8AUB) | [Ben Böhmer](https://www.youtube.com/watch?v=RvRhUHTV_8k&pp=ygUSYmVzdCBvZiBiZW4gYm9obWVy)
-- ⚡ Fun fact: I search for any opportunity to use regex :suspect:
-- ⚡ Fun fact 2: [Whale calls sped up sound like birds and bird calls slowed down sound like whales](https://www.youtube.com/shorts/YLGwvphm0qY)
+- ⚡ Fun fact: I look forward to any opportunity to use regex :suspect:
