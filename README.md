@@ -25,5 +25,5 @@ My passion lies in creating the most performant, efficient, memory-safe, and inu
 - 💬 Ask me about: C++, anything technology related (🚀 Space, 🤖AI, 🔬quantum), 🎥pop culture, or 🎻music
 - 😄 Pronouns: he/him
 - :books: Currently reading: Sarah J. Maas - A Court of Frost and Starlight
--  🎹 :sound: Currently listening to: [All things Liquid Drum n' Bass](https://www.youtube.com/watch?v=_rKZT_rN6LY&list=PL1wrQVOjFlMjfe2m2apaKT6_VVie5ZKjs&index=117&pp=iAQB8AUB) | [Ben Böhmer](https://www.youtube.com/watch?v=RvRhUHTV_8k&pp=ygUSYmVzdCBvZiBiZW4gYm9obWVy)
+-  🎹 :sound: Currently listening to: [All things Liquid Drum n' Bass (Link to Mr. BurntYoghurt: The Best of Alexvnder)](https://www.youtube.com/watch?v=QQW-ahdMNhQ&list=PL1wrQVOjFlMjfe2m2apaKT6_VVie5ZKjs&index=12) | [Ben Böhmer](https://www.youtube.com/watch?v=RvRhUHTV_8k&pp=ygUSYmVzdCBvZiBiZW4gYm9obWVy)
 - ⚡ Fun fact: I look forward to any opportunity to use regex :suspect:
