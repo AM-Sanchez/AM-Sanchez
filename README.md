@@ -20,10 +20,10 @@ My passion lies in creating the most performant, efficient, memory-safe, and inu
 
 - :vhs: Youtube channel: [Videos on computer networks and security I made for college](https://www.youtube.com/watch?v=NazbhvyKpqw&list=PL2ZA4O3zwHSSMp5FMeS7M4rq5yg50fqak)
 - 🔭 I’m currently working on: [A compiler for the "Decaf" programming language](https://github.com/am-sanchez/compiler-dcc)
-- 🌱 I’m currently learning: NVIDIA CUDA
-- 👯 I’m looking to collaborate on [NVIDIA/cccl](https://github.com/am-sanchez/cccl) and [NVIDIA/dcgm](https://github.com/am-sanchez/DCGM)
+- 🌱 I’m currently learning: NVIDIA CUDA and brushing up on compilers.
+- 👯 I’m looking to collaborate on [NVIDIA/cccl](https://github.com/am-sanchez/cccl)
 - 💬 Ask me about: Anything technology related (💻C++/Python/Golang, 🚀Space, 🤖AI, 🔬quantum), 🎥pop culture, or 🎻music
 - 😄 Pronouns: he/him
-- :books: Currently reading: Sarah J. Maas - A Court of Sliver Flames
+- :books: Currently reading: Brandon Sanderson - Oathbringer
 -  🎹 :sound: Currently listening to: All things Liquid Drum n' Bass [Link to Mr. BurntYoghurt: The Best of Alexvnder](https://www.youtube.com/watch?v=QQW-ahdMNhQ&list=PL1wrQVOjFlMjfe2m2apaKT6_VVie5ZKjs&index=12) | Deep house, especially [Ben Böhmer](https://www.youtube.com/watch?v=RvRhUHTV_8k&pp=ygUSYmVzdCBvZiBiZW4gYm9obWVy)
 - ⚡ Fun fact: I look forward to any opportunity to use regex :suspect:
